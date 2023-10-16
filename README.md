@@ -45,7 +45,7 @@ You can adjust the following parameters in the script:
 You can also extend the controls t fit your needs.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Issaminu/face-motion-input/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 This code uses [MediaPipe](https://github.com/google/mediapipe) for face detection and [Pynput](https://github.com/moses-palmer/pynput) for keyboard control.
